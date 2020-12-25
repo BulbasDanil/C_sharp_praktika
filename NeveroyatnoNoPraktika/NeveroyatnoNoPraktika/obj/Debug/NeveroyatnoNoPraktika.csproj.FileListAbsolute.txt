@@ -1,0 +1,7 @@
+E:\C#\Git\C_sharp_praktika\NeveroyatnoNoPraktika\NeveroyatnoNoPraktika\obj\Debug\NeveroyatnoNoPraktika.csprojAssemblyReference.cache
+E:\C#\Git\C_sharp_praktika\NeveroyatnoNoPraktika\NeveroyatnoNoPraktika\obj\Debug\NeveroyatnoNoPraktika.csproj.CoreCompileInputs.cache
+E:\C#\Git\C_sharp_praktika\NeveroyatnoNoPraktika\NeveroyatnoNoPraktika\bin\Debug\NeveroyatnoNoPraktika.exe.config
+E:\C#\Git\C_sharp_praktika\NeveroyatnoNoPraktika\NeveroyatnoNoPraktika\bin\Debug\NeveroyatnoNoPraktika.exe
+E:\C#\Git\C_sharp_praktika\NeveroyatnoNoPraktika\NeveroyatnoNoPraktika\bin\Debug\NeveroyatnoNoPraktika.pdb
+E:\C#\Git\C_sharp_praktika\NeveroyatnoNoPraktika\NeveroyatnoNoPraktika\obj\Debug\NeveroyatnoNoPraktika.exe
+E:\C#\Git\C_sharp_praktika\NeveroyatnoNoPraktika\NeveroyatnoNoPraktika\obj\Debug\NeveroyatnoNoPraktika.pdb

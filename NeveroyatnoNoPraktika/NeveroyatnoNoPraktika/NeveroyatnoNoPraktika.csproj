@@ -45,6 +45,11 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UnemployedDir\Date.cs" />
+    <Compile Include="UnemployedDir\Unemployed.cs" />
+    <Compile Include="UnemployedDir\UnemployedManager.cs" />
+    <Compile Include="VacancyDir\Compnay.cs" />
+    <Compile Include="VacancyDir\Vacancy.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
